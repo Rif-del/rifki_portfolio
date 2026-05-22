@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "Portofolio interaktif modern dengan animasi halus, grid proyek dinamis, integrasi profil GitHub, dan desain responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
